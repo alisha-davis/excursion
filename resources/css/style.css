@@ -15,7 +15,7 @@ header h1 {
     font-size: 16px;
 }
 
-main h2 {
+h2 {
     font-weight: 300;
     font-size: 42px;
 }
@@ -23,4 +23,9 @@ main h2 {
 .statement {
     color: gray;
     font-size: 21px;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
 }
